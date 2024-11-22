@@ -1,0 +1,20 @@
+TechNova-Lead-Management/
+│
+├── README.md
+├── google_sheets/
+│   ├── lead_management_template.xlsx
+│   └── critical_leads_example.xlsx
+├── zaps/
+│   ├── basic_lead_management.json
+│   ├── edge_case_handling.json
+│   └── advanced_scaling.json
+├── documentation/
+│   ├── lead_scoring_system.md
+│   ├── zapier_workflow_steps.md
+│   └── limitations_and_scaling.md
+├── screenshots/
+│   ├── zapier_workflow_basic.png
+│   ├── zapier_workflow_advanced.png
+│   └── zapier_workflow_edge_cases.png
+└── video/
+    └── walkthrough.mp4
